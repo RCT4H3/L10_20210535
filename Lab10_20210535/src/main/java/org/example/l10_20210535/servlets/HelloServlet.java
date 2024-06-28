@@ -1,4 +1,4 @@
-package org.example.l10_20210535;
+package org.example.l10_20210535.servlets;
 
 import java.io.*;
 
