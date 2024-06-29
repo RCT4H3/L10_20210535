@@ -29,7 +29,7 @@
             <a href="<%=request.getContextPath()%>/JugadoresServlet?action=listar" class="btn btn-primary btn-custom">Ver la lista de jugadores</a>
         </div>
         <div class="col-md-6">
-            <a href="<%=request.getContextPath()%>/EstadiosServlet?action=listar" class="btn btn-secondary btn-custom">Ver la lista de estadios</a>
+            <a href="<%=request.getContextPath()%>/EstadioServlet?action=listar" class="btn btn-secondary btn-custom">Ver la lista de estadios</a>
         </div>
     </div>
 
