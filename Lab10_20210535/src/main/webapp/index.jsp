@@ -8,6 +8,6 @@
 <h1><%= "Voy a jalar trafiiiiiiiii" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="<%=request.getContextPath()%>/JugadoresServlet?action=listar">Ver la lista de jugadores</a>
 </body>
 </html>
